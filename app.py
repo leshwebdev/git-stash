@@ -1,4 +1,5 @@
 print('Hello, DevOps')
 print('New feature in progress')
+print('This is something that i am working on, but it is not ready yet')
 print('Team update: Improved logging')
 print('My team-mate has added this new feature')
